@@ -8,7 +8,7 @@ For example the required dataset is :-
 
 **Country : India**
 
-**Match-type : ODI**
+**Match-type : Test Match**
 
 **Year of Match : 2020**
 
