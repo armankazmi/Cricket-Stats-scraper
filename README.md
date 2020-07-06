@@ -8,13 +8,13 @@ For example the required dataset is :-
 
 **Country : India**
 
-**Match-type : Odi**
+**Match-type : ODI**
 
 **Year of Match : 2020**
 
 
 
-Team1 | Team2 | Winner | Margin | Ground | Match Date | Scorecard 
+**Team1** | **Team2** | **Winner** | **Margin** | **Ground** | **Match Date** | **Scorecard** 
 --- | --- | --- | --- |--- |--- |---  
 New Zealand | India | New Zealand | 10 wickets | Wellington | Feb 21-24, 2020 | Test #2385 
 New Zealand | India | New Zealand | 7 wickets | Christchurch | Feb 29-Mar 2, 2020 | Test #2387
