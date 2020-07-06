@@ -1,4 +1,6 @@
-#Python script to extract the all the names of the Teams available for data.  
+#Python script to extract the all the names of the Teams available for data.
+#author : Arman Kazmi
+
 #Importing libraries
 
 import requests
